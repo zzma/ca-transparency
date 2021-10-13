@@ -3,7 +3,7 @@
 This repository contains the data and code used for measuring/analyzing the operational
 features of CAs in the modern web PKI as of July 1, 2020. Please see the
 [paper](https://zanema.com/ca-transparency.pdf) or contact me at
-[zanema2@illinois.edu](mailto:zanema2@illinois.edu) for more details. 
+[zanema@gatech.edu](mailto:zanema@gatech.edu) for more details. 
 
 ## Repo Structure
 - `data/fides_cert_operators_20200701.psv`: Pipe ("|") separated fields for 9,154 CA certificates and their Fides CA operator label and CCADB label
