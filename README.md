@@ -2,7 +2,7 @@
 
 This repository contains the data and code used for measuring/analyzing the operational
 features of CAs in the modern web PKI as of July 1, 2020. Please see the
-[paper](https://zanema.com/ca-transparency.pdf) or contact me at
+[paper](https://zanema.com/papers/usenix21_ca_operators.pdf) or contact me at
 [zanema@gatech.edu](mailto:zanema@gatech.edu) for more details. 
 
 ## Repo Structure
